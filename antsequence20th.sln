@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "antsequence20th", "antsequence20th\antsequence20th.csproj", "{CD356236-248D-4DAE-BD9B-08DAB55E4C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD356236-248D-4DAE-BD9B-08DAB55E4C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD356236-248D-4DAE-BD9B-08DAB55E4C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD356236-248D-4DAE-BD9B-08DAB55E4C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD356236-248D-4DAE-BD9B-08DAB55E4C39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F981D29-1944-4511-AD81-9DF2FD043B36}
+	EndGlobalSection
+EndGlobal
